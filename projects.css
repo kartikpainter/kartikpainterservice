@@ -313,7 +313,7 @@ a.sec {
 
     header {
       position: relative;
-     background: url('assets/slider3.png') center/cover no-repeat;
+     background: url('all-img/slider3.png') center/cover no-repeat;
       color: white;
       text-align: center;
       padding: 5rem 1rem 40%;
@@ -450,7 +450,7 @@ a.sec {
 
       header {
       position: relative;
-     background: url('assets/slider2.png') center/cover no-repeat;
+     background: url('all-img/slider2.png') center/cover no-repeat;
       color: white;
       text-align: center;
       padding: 5rem 1rem 100%;
@@ -535,7 +535,7 @@ a.sec {
   position: relative;
   width: 100%;
   height: 40vh; /* Adjust height */
-  background: url('assets/slider1.jpg') center center/cover no-repeat fixed;
+  background: url('all-img/slider1.jpg') center center/cover no-repeat fixed;
   display: flex;
   align-items: center;
   justify-content: center;
