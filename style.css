@@ -533,7 +533,7 @@ span.arrow {
   position: relative;
   width: 100%;
   height: 50vh; /* Adjust height */
-  background: url('assets/slider1.jpg') center center/cover no-repeat fixed;
+  background: url('all-img/slider1.jpg') center center/cover no-repeat fixed;
   display: flex;
   align-items: center;
   justify-content: center;
